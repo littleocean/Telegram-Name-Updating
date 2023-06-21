@@ -1,3 +1,4 @@
 setuptools
 emoji
 telethon
+tmux
